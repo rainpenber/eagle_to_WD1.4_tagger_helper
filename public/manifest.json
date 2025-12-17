@@ -1,0 +1,17 @@
+{
+  "id": "41d85fd9-f944-4413-91f7-30cd4fd4a09e",
+  "version": "0.0.1beta",
+  "platform": "all",
+  "arch": "all",
+  "name": "WD1.4_tagger标签助手",
+  "logo": "logo.png",
+  "keywords": [],
+  "devTools": false,
+  "main": {
+    "url": "index.html",
+    "width": 640,
+    "height": 720
+  }
+}
+
+
